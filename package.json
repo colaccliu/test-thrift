@@ -1,0 +1,11 @@
+{
+  "name": "test-thrift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kexinWeb/test-thrift.git",
+  "author": "colaliu",
+  "license": "MIT",
+  "dependencies": {
+    "thrift": "^0.14.2"
+  }
+}
